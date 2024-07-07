@@ -1,0 +1,5 @@
+@ECHO OFF
+
+
+cmake --build .
+
