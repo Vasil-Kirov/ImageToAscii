@@ -1,0 +1,1 @@
+/usr/bin/clang CMakeFiles/ImageToAscii.dir/src/main.c.o CMakeFiles/ImageToAscii.dir/src/framebuffer.c.o -o ImageToAscii 

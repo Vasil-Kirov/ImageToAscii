@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/e/C_Projects/ImageToAscii/linux-bin",
+  "command": "/usr/bin/clang  -I/mnt/e/C_Projects/ImageToAscii/include  -o CMakeFiles/ImageToAscii.dir/src/main.c.o -c /mnt/e/C_Projects/ImageToAscii/src/main.c",
+  "file": "/mnt/e/C_Projects/ImageToAscii/src/main.c"
+},
+{
+  "directory": "/mnt/e/C_Projects/ImageToAscii/linux-bin",
+  "command": "/usr/bin/clang  -I/mnt/e/C_Projects/ImageToAscii/include  -o CMakeFiles/ImageToAscii.dir/src/framebuffer.c.o -c /mnt/e/C_Projects/ImageToAscii/src/framebuffer.c",
+  "file": "/mnt/e/C_Projects/ImageToAscii/src/framebuffer.c"
+}
+]

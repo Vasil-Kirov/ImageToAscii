@@ -1,0 +1,3 @@
+E:/C_Projects/ImageToAscii/bin/CMakeFiles/ImageToAscii.dir
+E:/C_Projects/ImageToAscii/bin/CMakeFiles/ALL_BUILD.dir
+E:/C_Projects/ImageToAscii/bin/CMakeFiles/ZERO_CHECK.dir
